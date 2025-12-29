@@ -16,7 +16,7 @@ Minor — New features or improvements
 Patch — Bug fixes or small adjustments
 
 Current recommended version:
-v1.0.0 (stable for BCG+ and Mayview)
+v1.1.0 (stable for BCG+ and Mayview)
 
 You can expand this later with a changelog or compatibility matrix if you want.
 
