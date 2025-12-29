@@ -1,0 +1,13 @@
+{
+  "itemGroup.sellinggen": "Selling Bin Generator",
+  "block.sellinggen.example_block": "Example Block",
+  "item.sellinggen.example_item": "Example Item",
+
+  "sellinggen.configuration.title": "SellingBinGenerator Configs",
+  "sellinggen.configuration.section.sellinggen.common.toml": "SellingBinGenerator Configs",
+  "sellinggen.configuration.section.sellinggen.common.toml.title": "SellingBinGenerator Configs",
+  "sellinggen.configuration.items": "Item List",
+  "sellinggen.configuration.logDirtBlock": "Log Dirt Block",
+  "sellinggen.configuration.magicNumberIntroduction": "Magic Number Text",
+  "sellinggen.configuration.magicNumber": "Magic Number"
+}
